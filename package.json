@@ -4,7 +4,8 @@
   "description": "Hall Booking API backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Hello world before executing the script' && node index.js"
   },
   "author": "",
   "license": "ISC",
